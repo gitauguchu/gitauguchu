@@ -1,5 +1,5 @@
 Hi there 👋  
-Data Engineer and Data Scientist looking to solve real world challenges.  
+I'm a Data Engineer and Data Scientist looking to solve real world challenges.  
 Currently learning good data engineering practices to be able to apply them into my data science career.  
 I have a perfectly curated portfolio of all my cool projects across data engineering and data science. View them in my pinned projects in my overview  
 Have a look at what I'm currently working on and my career progress: www.linkedin.com/in/dguchu  
